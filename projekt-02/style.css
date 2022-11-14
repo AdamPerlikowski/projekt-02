@@ -1,0 +1,113 @@
+h1 {
+    background-color: aquamarine;
+    padding: 20px;
+  }
+  h3 {
+    margin: 82px 0 0 0;
+  }
+  
+  .section {
+    background-color: aqua;
+    padding: 20px;
+  }
+  
+  table {
+    background-color: pink;
+    border-color: violet;
+    padding: 5px;
+    box-shadow: 4px 4px 10px darkmagenta;
+    border-collapse: 5%;
+  }
+  table tr:nth-child(even) {
+    background: skyblue;
+  }
+  
+  table:hover {
+    background-color: lightcyan;
+  }
+  
+  table th:hover {
+    background-color: aqua;
+  }
+  
+  table td:hover {
+    background-color: palevioletred;
+  }
+  
+  .powrot_link {
+    font-size: 20px;
+    background-color: lightseagreen;
+    text-decoration: lightyellow;
+    padding: 15px;
+    color: black;
+    transition: 1000ms;
+  }
+  
+  .menu-link {
+    font-size: 20px;
+    background-color: lightpink;
+    text-decoration: lightyellow;
+    padding: 15px;
+    color: whitesmoke;
+    box-shadow: 1px 1px 7px grey;
+    transition: 500ms;
+  }
+  
+  .menu-table {
+    background-color: palevioletred;
+    border-color: darkmagenta;
+    padding: 5px;
+    box-shadow: 4px 4px 10px darkmagenta;
+    border-collapse: collapse;
+    width: 50%;
+    height: 150px;
+  }
+  
+  .menu-table:hover {
+    background-color: bisque;
+    border-color: black;
+    padding: 5px;
+    box-shadow: 4px 4px 20px #b19f83;
+    border-collapse: collapse;
+    border-spacing: 180px;
+    transition: 505ms;
+  }
+  .menu-table tr:nth-child(even) {
+    background: pink;
+  }
+  
+  .menu-table th:hover {
+    background-color: wheat;
+    transition: 505ms;
+  }
+  
+  .menu-table td:hover {
+    background-color: lightblue;
+    transition: 505ms;
+  }
+  
+  .menu-link:hover {
+    font-size: 22px;
+    background-color: palevioletred;
+    text-decoration: lightyellow;
+    padding-top: 33px;
+    padding-left: 53px;
+    padding-right: 53px;
+    padding-bottom: 33px;
+    border-radius: 10%;
+    box-shadow: 4px 4px 13px black;
+    color: bisque;
+  }
+  
+  .powrot_link:hover {
+    font-size: 22px;
+    background-color: greenyellow;
+    text-decoration: lightyellow;
+    padding-top: 23px;
+    padding-left: 58px;
+    padding-right: 58px;
+    padding-bottom: 83px;
+    border-radius: 10%;
+    color: black;
+  }
+  
